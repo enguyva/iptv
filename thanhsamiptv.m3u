@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml,http://trada.info/epg.xml"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/1.png", VTV1
 http://str1.cvtv.xyz/VTV1HD?token=live
