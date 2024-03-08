@@ -100,7 +100,7 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-id="truesports7" group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
 
-#EXTINF:-1 tvg-id="kplusaction" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/c8dff954-0eb2-4201-a501-ca84834c6ac7/scale-to-width/755",K+ ACTION
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/c8dff954-0eb2-4201-a501-ca84834c6ac7/scale-to-width/755",K+ ACTION
 http://vcis.nekocdn.xyz/kaction/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE
 http://vcis.nekocdn.xyz/kcine/index.m3u8
