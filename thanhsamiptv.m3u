@@ -111,7 +111,7 @@ http://vcis.nekocdn.xyz/ksport1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+ SPORT2
 http://vcis.nekocdn.xyz/ksport2/index.m3u8
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="EmYeuKhoaHoc" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="EmYeuKhoaHoc" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery
 http://viettel.nekocdn.xyz/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="EmYeuKhoaHoc" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
