@@ -1,6 +1,6 @@
+#EXTM3U url-tvg="http://cdn.hqth.me/vthanhmovies_schedule.xml"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml"
-#EXTM3U url-tvg="http://cdn.hqth.me/vthanhmovies_schedule.xml"
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/1.png", VTV1 | HD1
