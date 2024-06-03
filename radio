@@ -1,3 +1,9 @@
+#EXTM3U url-tvg="http://cdn.hqth.me/vthanhmovies_schedule.xml"
+#EXTM3U url-tvg="https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://gg.gg/coocaaE"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
+
 #EXTINF:-1 tvg-id="palmwine" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s47706q.png", RadioPalmwine Igbo Radio
 http://opml.radiotime.com/Tune.ashx?id=s47706
 #EXTINF:-1 tvg-id="vov5" group-title="RADIO" tvg-logo="https://brandcom.vn/wp-content/uploads/2016/01/vov5-logo.jpg", VOV5-ĐỐI NGOẠI
