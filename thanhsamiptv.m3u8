@@ -13,9 +13,9 @@ http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/2.png", VTV2 | VIETTEL
 http://viettel.nekocdn.xyz/VTV2/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/2.png", VTV2 | HD2
-https://vtvgolive-vtv.vtvdigital.vn/xaewi481DU4pnUOl1Y5cKQ/1709869772/vtvgo/vtv2-manifest.m3u8
+http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/3.png", VTV3 | HD1
-https://code.vthanhtivi.pw/channel/Y0J1WkRwRE9BbGk5ZlpwMk1KMFVZNXBLL2Zhc2xZcy95cFV5S3Bvb09xTC9WZThveXhxbk5pTEFJR2lGdVhrclQvMW42M1lVamRvNmdZQmZDMGZ5REE9PQ==/master.m3u8
+http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://img-z102.khanggtivi.xyz/logo/3.png", VTV3 | HD2
 https://vtvgolive-vtv.vtvdigital.vn/tAtCFJtmxf9bfw7dNCIqvw/1709866799/vtvgo/vtv3-manifest.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="VTV" tvg-logo="https://i.imgur.com/5qQzerW.png", ANTV
