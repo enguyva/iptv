@@ -75,6 +75,21 @@ https://1117141481.vnns.net/VTC14/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png", VTC16 HD
 https://1117141481.vnns.net/VTC16/playlist.m3u8
 
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+https://api.wintv.me/360/190/index.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
+https://api.wintv.me/360/191/index.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+https://api.wintv.me/360/192/index.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
+https://api.wintv.me/360/9/index.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
+https://api.wintv.me/360/193/index.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
+https://api.wintv.me/360/194/index.m3u8
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
+https://api.wintv.me/360/195/index.m3u8
+
 #EXTINF:-1 tvg-name="bbcworldnews" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png" ,BBC News
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-name="bbcworldnews" group-title="NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png" ,BBC World News
@@ -142,6 +157,24 @@ http://vcis.nekocdn.xyz/ksport2/index.m3u8
 http://viettel.nekocdn.xyz/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="EmYeuKhoaHoc" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="EmYeuKhoaHoc" group-logo="https://cdn.hqth.me/logo/category/discovery.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="EmYeuKhoaHoc" group-logo="https://cdn.hqth.me/logo/category/discovery.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.21:30120
+#EXTINF:-1 tvg-id="discoveryhd" group-title="EmYeuKhoaHoc" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
+https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="EmYeuKhoaHoc" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 group-title="EmYeuKhoaHoc" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Discovery%20Science.png",Discovery Science Asia
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+#EXTINF:-1 group-title="EmYeuKhoaHoc" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Discovery%20Turbo.png",Discovery Turbo Asia
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:-1 group-title="EmYeuKhoaHoc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
+http://104.233.187.235:2082/4gtv?user=ningjingzhiyuan&id=214/4gtv-live026
+#EXTINF:-1 tvg-id="lovenature" group-title="EmYeuKhoaHoc" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="EmYeuKhoaHoc" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="palmwine" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s47706q.png", RadioPalmwine Igbo Radio
 http://opml.radiotime.com/Tune.ashx?id=s47706
