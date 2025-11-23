@@ -42,6 +42,12 @@ http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
 https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="voh87.7" group-title="VIỆT NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/Logo_VOH_FM_87%2C7_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728074218&path-prefix=vi", VOH FM 87.7
+https://strm.voh.com.vn/radio/channel5/chunklist.m3u8
+#EXTINF:-1 tvg-id="voh99.9" group-title="VIỆT NAM" tvg-logo="content://com.android.providers.media.documents/document/image%3A40921", VOH FM 99.9
+https://strm.voh.com.vn/radio/channel3/chunklist.m3u8
+#EXTINF:-1 tvg-id="voh95.6" group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/ITTPjxo.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
@@ -130,10 +136,6 @@ http://opml.radiotime.com/Tune.ashx?id=s285825
 http://opml.radiotime.com/Tune.ashx?id=s223890
 #EXTINF:-1 tvg-id="bolsa" group-title="RADIO" tvg-logo="http://cdn-profiles.tunein.com/s162566/images/logoq.jpg?t=1671653540000", Radio Bolsa - Viet USA
 http://opml.radiotime.com/Tune.ashx?id=s162566
-#EXTINF:-1 tvg-id="voh99.9" group-title="RADIO" tvg-logo="content://com.android.providers.media.documents/document/image%3A40921", VOH FM 99.9
-http://125.212.213.71:1935/live/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="voh95.6" group-title="RADIO" tvg-logo="https://i.imgur.com/ITTPjxo.png", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" group-title="RADIO" tvg-logo="http://cdn-profiles.tunein.com/s17075/images/logoq.jpg?t=2", Bloomberg Radio New York
 http://opml.radiotime.com/Tune.ashx?id=s17075
 #EXTINF:-1 tvg-id="vetradio" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s248615q.png", Vietnam Vet Radio
